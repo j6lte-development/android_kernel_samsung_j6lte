@@ -431,6 +431,7 @@ CONFIG_TIMA_RKP_4G=y
 # CONFIG_RKP_KDP is not set
 # CONFIG_TIMA_TEST_INFRA is not set
 # CONFIG_BUILD_ARM64_APPENDED_DTB_IMAGE is not set
+CONFIG_DTB_J6LTE=y
 
 #
 # Userspace binary formats
